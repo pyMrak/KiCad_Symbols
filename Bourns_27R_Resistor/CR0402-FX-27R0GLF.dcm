@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CR0402-FX-27R0GLF
+D Thick Film Resistors - SMD 27 OHM 1%
+K
+F https://www.bourns.com/pdfs/CR0402.pdf
+$ENDCMP
+#
+#End Doc Library
