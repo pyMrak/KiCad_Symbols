@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WR04X330_JTL
+D Thick Film Resistors - SMD 0402 33R  5%     Lead Free
+K
+F http://download.siliconexpert.com/pdfs/2018/6/28/18/34/27/547266/walsin_/auto/asc_wr.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model WR04X330_JTL
+#/18280667/1283514/2.50/2/3/Resistor
+DEF WR04X330_JTL R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "WR04X330_JTL" 550 150 50 H V L CNN
+F2 "RESC1005X40N" 550 50 50 H I L CNN
+F3 "http://download.siliconexpert.com/pdfs/2018/6/28/18/34/27/547266/walsin_/auto/asc_wr.pdf" 550 -50 50 H I L CNN
+F4 "Thick Film Resistors - SMD 0402 33R  5%     Lead Free" 550 -150 50 H I L CNN "Description"
+F5 "0.4" 550 -250 50 H I L CNN "Height"
+F6 "" 550 -350 50 H I L CNN "Farnell Part Number"
+F7 "" 550 -450 50 H I L CNN "Farnell Price/Stock"
+F8 "Walsin Technology Corporation" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "WR04X330 JTL" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library

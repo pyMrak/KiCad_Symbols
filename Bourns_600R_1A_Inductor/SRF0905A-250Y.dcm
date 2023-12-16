@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRF0905A-250Y
+D Common Mode Chokes Dual 25uH 600Ohm 1kHz 1A 0.16Ohm DCR SMD Automotive T/R
+K
+F https://componentsearchengine.com/Datasheets/2/SRF0905A-250Y.pdf
+$ENDCMP
+#
+#End Doc Library
