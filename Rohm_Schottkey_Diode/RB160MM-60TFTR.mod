@@ -1,0 +1,38 @@
+PCBNEW-LibModule-V1  2024-01-04 20:07:01
+# encoding utf-8
+Units mm
+$INDEX
+PMDU
+$EndINDEX
+$MODULE PMDU
+Po 0 0 0 15 65970fe5 00000000 ~~
+Li PMDU
+Cd PMDU
+Kw Schottky Diode
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 -0.311 -0.064 1.27 1.27 0 0.254 N V 21 N "D**"
+T1 -0.311 -0.064 1.27 1.27 0 0.254 N I 21 N "PMDU"
+DS -0.8 -1.3 0.8 -1.3 0.2 24
+DS 0.8 -1.3 0.8 1.3 0.2 24
+DS 0.8 1.3 -0.8 1.3 0.2 24
+DS -0.8 1.3 -0.8 -1.3 0.2 24
+DS -0.8 1.3 -0.8 -1.3 0.2 21
+DS 0.8 -1.3 0.8 1.3 0.2 21
+DC -0.045 -2.227 -0.06289 -2.227 0.254 21
+$PAD
+Po 0 -1.525
+Sh "1" R 0.85 1.2 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 1.525
+Sh "2" R 0.85 1.2 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE PMDU
+$EndLIBRARY

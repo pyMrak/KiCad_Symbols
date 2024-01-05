@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RB160MM-60TFTR
+D ROHM - RB160MM-60TFTR - SCHOTTKY RECTIFIER, AUTO, 60V, SOD123
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS42/DSANUWW0049880.pdf
+$ENDCMP
+#
+#End Doc Library

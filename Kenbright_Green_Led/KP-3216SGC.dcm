@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KP-3216SGC
+D LED Uni-Color SB. Green 565nm 2-Pin Chip LED T/R
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-29/DSA-565642.pdf
+$ENDCMP
+#
+#End Doc Library
