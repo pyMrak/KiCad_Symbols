@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASV-12.000MHZ-EJ-T
+D 12 MHz XO (Standard) HCMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead
+K
+F https://abracon.com/Oscillators/ASV.pdf
+$ENDCMP
+#
+#End Doc Library

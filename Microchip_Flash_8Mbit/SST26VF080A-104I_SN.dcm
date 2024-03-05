@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SST26VF080A-104I_SN
+D NOR Flash 8Mb, 2.3V to 3.6V, SPI,SDI,SQI, 104MHz, I temp, 8-SOIC
+K
+F https://www.mouser.in/datasheet/2/268/20006203B-1843727.pdf
+$ENDCMP
+#
+#End Doc Library

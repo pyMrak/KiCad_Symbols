@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BCW68GLT1G
+D ON Semi BCW68GLT1G PNP Bipolar Transistor, -800 mA, -45 V, 3-Pin SOT-23
+K
+F http://www.onsemi.com/pub/Collateral/BCW68GLT1-D.PDF
+$ENDCMP
+#
+#End Doc Library

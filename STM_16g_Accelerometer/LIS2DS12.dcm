@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LIS2DS12
+D STMicroelectronics LIS2DS12 3-Axis Accelerometer Ic, 1.62  1.98 V 12-Pin LGA
+K
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/ce/32/55/ac/e1/87/46/84/DM00177048.pdf/files/DM00177048.pdf/jcr:content/translations/en.DM00177048.pdf
+$ENDCMP
+#
+#End Doc Library

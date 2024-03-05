@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP H3LIS100DLTR
+D STMicroelectronics H3LIS100DL 3-Axis Accelerometer Ic, 2.16  3.6 V 16-Pin TFLGA
+K
+F https://www.st.com/resource/en/datasheet/h3lis100dl.pdf
+$ENDCMP
+#
+#End Doc Library
